@@ -1,0 +1,46 @@
+Circuit: * D:\projekte\musik matrix\analog kram\1. audio input.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.666667
+Gmin = 6.17442e-008
+vernier = 0.888888
+vernier = 1
+Gmin = 9.33136e-009
+Gmin = 1.00195e-009
+Gmin = 1.07583e-010
+Gmin = 1.15517e-011
+Gmin = 1.24035e-012
+Gmin = 1.33182e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Mon Jun 16 14:34:52 2014
+Total elapsed time: 0.308 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 529
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 21
+fillins = 18
+solver = Normal
+Matrix Compiler1:     109 opcodes
+Matrix Compiler2: off  [0.3]/0.6/0.9
+
+
